@@ -1,1 +1,2 @@
 # Book-Managementsystem
+This Book Management System is a console-based application developed in C to help manage a collection of books. It allows users to add, remove, search, update, and sort books by price and rating. The system uses dynamic memory allocation to handle a flexible number of books sorting algorithms to organize books. The menu-driven interface provides a simple and intuitive way for users to interact with the application. It is a useful tool for organizing and managing book data efficiently.
